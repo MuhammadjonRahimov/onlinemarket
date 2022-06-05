@@ -1,0 +1,12 @@
+*{
+	padding:0;
+	margin:0;
+	box-sizing:border-box;
+}
+body{
+	/* background:linear-gradient(to left, #f00 0-25%, #00f 26%-60%, coral 61%-100%); */
+	background-color: #333;
+	color:#fff;
+	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+	font-size: 30px;
+}
